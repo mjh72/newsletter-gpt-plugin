@@ -11,7 +11,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://<username>.github.io/newsletter-gpt-plugin/openapi.json"
+    "url": "https://mjh72.github.io/newsletter-gpt-plugin/openapi.json"
   },
   "logo_url": "https://<your-domain>/logo.png",
   "contact_email": "you@example.com",
