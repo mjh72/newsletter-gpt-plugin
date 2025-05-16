@@ -1,0 +1,19 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Newsletter Assistant",
+  "name_for_model": "newsletter_ai",
+  "description_for_human": "Generates articles and newsletters from Airtable content.",
+  "description_for_model": "Plugin for fetching records from Airtable tables.",
+  "auth": {
+    "type": "api_key",
+    "in": "header",
+    "name": "Authorization"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://<username>.github.io/newsletter-gpt-plugin/openapi.json"
+  },
+  "logo_url": "https://<your-domain>/logo.png",
+  "contact_email": "you@example.com",
+  "legal_info_url": "https://example.com/legal"
+}
